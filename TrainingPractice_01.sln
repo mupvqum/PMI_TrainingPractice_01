@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_01", "Zadacha_1\PMI_Task_01.csproj", "{481826C1-A1EC-491A-9DAD-64FE9EE19337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_01", "Zadacha_1\PMI_Task_01\PMI_Task_01.csproj", "{481826C1-A1EC-491A-9DAD-64FE9EE19337}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_03", "..\Zadacha_3\PMI_Task_03\PMI_Task_03.csproj", "{F9BD8CDF-969A-4A42-BE12-FF0DD1294FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_03", "Zadacha_3\PMI_Task_03\PMI_Task_03.csproj", "{F9BD8CDF-969A-4A42-BE12-FF0DD1294FB0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_02", "..\Zadacha_2\PMI_Task_02\PMI_Task_02.csproj", "{E63A5659-F1FF-4BE9-9D6F-E25E1B67B5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMI_Task_02", "Zadacha_2\PMI_Task_02\PMI_Task_02.csproj", "{E63A5659-F1FF-4BE9-9D6F-E25E1B67B5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMI_Task_04", "..\Zadacha_4\PMI_Task_04\PMI_Task_04.csproj", "{59CF833C-DF7D-40AD-90B4-7B6353A4A84E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMI_Task_04", "Zadacha_4\PMI_Task_04\PMI_Task_04.csproj", "{59CF833C-DF7D-40AD-90B4-7B6353A4A84E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

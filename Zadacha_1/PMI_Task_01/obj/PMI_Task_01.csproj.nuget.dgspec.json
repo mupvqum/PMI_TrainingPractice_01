@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\Zadacha_1\\PMI_Task_01.csproj": {}
+    "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\PMI_Task_01\\PMI_Task_01.csproj": {}
   },
   "projects": {
-    "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\Zadacha_1\\PMI_Task_01.csproj": {
+    "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\PMI_Task_01\\PMI_Task_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\Zadacha_1\\PMI_Task_01.csproj",
+        "projectUniqueName": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\PMI_Task_01\\PMI_Task_01.csproj",
         "projectName": "PMI_Task_01",
-        "projectPath": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\Zadacha_1\\PMI_Task_01.csproj",
+        "projectPath": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\PMI_Task_01\\PMI_Task_01.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-        "outputPath": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\Zadacha_1\\obj\\",
+        "outputPath": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_1\\PMI_Task_01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
