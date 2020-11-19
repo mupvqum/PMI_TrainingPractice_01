@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2qZlZG2UH1BjvPSArTY+L7uCPAEWiPPr+KCY0DzPkjfNwqNcQXU+uYfendbYuNwghTDSedbj8jRQtLacJB8hdA==",
+  "success": true,
+  "projectFilePath": "E:\\OTHER\\College\\3 КУРС\\ПРАКТИКА\\1 неделя\\Zadacha_2\\PMI_Task_02\\PMI_Task_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
