@@ -1,0 +1,13 @@
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.exe
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.deps.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.runtimeconfig.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.runtimeconfig.dev.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.dll
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\Zadacha_1.pdb
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.csprojAssemblyReference.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.AssemblyInfoInputs.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.AssemblyInfo.cs
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.csproj.CoreCompileInputs.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.dll
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.pdb
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\Zadacha_1.genruntimeconfig.cache

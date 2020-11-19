@@ -1,0 +1,13 @@
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.exe
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.deps.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.runtimeconfig.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.runtimeconfig.dev.json
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.dll
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\bin\Debug\netcoreapp3.1\PMI_Task_01.pdb
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.csprojAssemblyReference.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.AssemblyInfoInputs.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.AssemblyInfo.cs
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.csproj.CoreCompileInputs.cache
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.dll
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.pdb
+E:\OTHER\College\3 КУРС\ПРАКТИКА\1 неделя\1\Zadacha_1\Zadacha_1\obj\Debug\netcoreapp3.1\PMI_Task_01.genruntimeconfig.cache
