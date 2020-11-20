@@ -49,7 +49,7 @@ namespace PMI_Task_04
             Random random = new Random();
             boss.life = random.Next(50, 500);
             player.life = random.Next(50, 500);
-            player.morale = random.Next(0, 100);
+            player.morale = random.Next(1, 15);
 
             int roundNum = 1; //Инициализация счетчика раундов
             //Сюжетные реплики
@@ -61,8 +61,7 @@ namespace PMI_Task_04
             System.Console.WriteLine("FIREWALL: восстанавливает 120 ед. жизни, игрок не может атаковать босса в течении одного раунда" + "\n");
             System.Console.WriteLine("COVERT ATTACK: наносит 120 ед. урона, босс не может атаковать в ответ, снижает показатель боевого духа до нуля, отнимает 80 ед. жизни" + "\n");
             System.Console.WriteLine("INVISIBILITY: делает игрока невидимым на 2 раунда, отнимает 50 ед.жизни" + "\n");
-            System.Console.WriteLine("PHOENIX: призыв феникса, существо будет бороться на вашей стороне, пока не погибнет, отнимает 60 ед. жизни" + "\n");
-            System.Console.WriteLine("RAISING MORALE: поднимает боевой дух, увеличивая силу атаки на 20 ед. урона, отнимает 18 ед. жизни" + "\n");
+            System.Console.WriteLine("RAISING MORALE: поднимает боевой дух, увеличивая силу атаки, отнимает 18 ед. жизни" + "\n");
 
             string spell; //Инициализация переменной, в которой будет хранится заклининие, введенное пользователем 
             
@@ -92,12 +91,13 @@ namespace PMI_Task_04
         {
             bool bossMiss = boss.state != 0; 
             bool playerMiss = player.state != 0;
+            int moralPower = (player.morale / 2 <= 0) ? 1 : player.morale / 2;
      
             //Определение действий заклинания, введенного пользователем
             if (spell == fireBoll) 
             {
-                boss.life -= (playerMiss) ? 0 : 80 * (player.morale / 10);
-                player.life += (bossMiss) ? 0 :20 - boss.power;
+                boss.life -= (playerMiss) ? 0 : 80 * moralPower;
+                player.life += (bossMiss) ? 0 : 20 - boss.power;
             }
             else if (spell == fireWall)
             {
@@ -106,7 +106,7 @@ namespace PMI_Task_04
             }
             else if (spell == covertAttack)
             {
-                boss.life -= (playerMiss) ? 0 : 120 * (player.morale / 10);
+                boss.life -= (playerMiss) ? 0 : 120 * moralPower;
                 player.life -= 80;
                 player.morale = 0;
                 boss.state += 1;
@@ -120,7 +120,7 @@ namespace PMI_Task_04
             {
                 player.life -= (bossMiss) ? 18 : 18 + boss.power;
                 player.power += 20;
-                player.morale += 20;
+                player.morale += 10;
             }
             if (playerMiss)
             {
